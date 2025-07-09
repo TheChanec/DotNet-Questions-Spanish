@@ -1,0 +1,6 @@
+- Diferencias entre `IEnumerable`, `IQueryable`, `List` y `Array`
+- Cómo funciona el **garbage collector**
+- Qué es el **boxing/unboxing**
+- Diferencias entre `ref`, `out` y `in`
+- Uso y beneficios de **async/await**
+- Qué es un **delegate**, **event** y **Func/Action**
