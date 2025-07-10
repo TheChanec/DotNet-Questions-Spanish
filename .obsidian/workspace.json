@@ -1,0 +1,322 @@
+{
+  "main": {
+    "id": "8d4c02e58a85b559",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7fc380c70cbca6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a3dbd3d552b95b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DotNet/Fundamentos de .NET/ICollections/List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "List"
+            }
+          },
+          {
+            "id": "c339506d503c3b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DotNet/Fundamentos de .NET/ICollections/Qué es IList.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qué es IList"
+            }
+          },
+          {
+            "id": "91c308c0d4c8d374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DotNet/Fundamentos de .NET/Qué es el Garbage Collector?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qué es el Garbage Collector?"
+            }
+          },
+          {
+            "id": "3a4fdec0b47e259b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DotNet/Fundamentos de .NET/Qué es el boxing-unboxing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qué es el boxing-unboxing"
+            }
+          },
+          {
+            "id": "ddd8d171d282459f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DotNet/Fundamentos de .NET/Diferencias entre ref, out y in.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diferencias entre ref, out y in"
+            }
+          },
+          {
+            "id": "651244efd801f92c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DotNet/Fundamentos de .NET/Uso y beneficios de async-await.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uso y beneficios de async-await"
+            }
+          },
+          {
+            "id": "25ee95431fc3519d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DotNet/Fundamentos de .NET/Task/Qué es un delegate, event y Func-Action.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qué es un delegate, event y Func-Action"
+            }
+          },
+          {
+            "id": "97bd70cb88080fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DotNet/Principios SOLID y Diseño/SOLID/¿Qué es SOLID?..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "¿Qué es SOLID?."
+            }
+          },
+          {
+            "id": "06ebaab4688e2817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DotNet/ASP.NET Core - Web APIs/Cómo configuras Middleware y qué es.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cómo configuras Middleware y qué es"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ae4e09fbb8a5960",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f400ff7c35f971d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e26d88021d92ed39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "95bd2ba9c53ad86f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3d26fbc157534695",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90175a2015508616",
+    "type": "split",
+    "children": [
+      {
+        "id": "9783150333790d40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8b702a257a25aae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DotNet/ASP.NET Core - Web APIs/Cómo configuras Middleware y qué es.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Cómo configuras Middleware y qué es"
+            }
+          },
+          {
+            "id": "bf0621882b1d2479",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DotNet/ASP.NET Core - Web APIs/Cómo configuras Middleware y qué es.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Cómo configuras Middleware y qué es"
+            }
+          },
+          {
+            "id": "f4ce47707bc6d012",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c8d0d3d5eb6b9aed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DotNet/ASP.NET Core - Web APIs/Cómo configuras Middleware y qué es.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Cómo configuras Middleware y qué es"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "06ebaab4688e2817",
+  "lastOpenFiles": [
+    "DotNet/Principios SOLID y Diseño/Clean Architecture o Onion Architecture/¿Qué es Clean Architecture (o Onion Architecture)?.md",
+    "DotNet/ASP.NET Core - Web APIs/Cómo configuras Middleware y qué es.md",
+    "DotNet/ASP.NET Core - Web APIs",
+    "DotNet/Principios SOLID y Diseño/Explicar patrón Dependency Injection y uso en .NET Core.md",
+    "DotNet/Principios SOLID y Diseño/Tipos de vida útil (lifetime)",
+    "DotNet/Principios SOLID y Diseño/Clean Architecture o Onion Architecture",
+    "DotNet/Principios SOLID y Diseño/Sin título.md",
+    "DotNet/Principios SOLID y Diseño/Patrón Repository, Unit of Work/Patrón Repository, Unit of Work.md",
+    "DotNet/Principios SOLID y Diseño/Principios de diseño como DRY, KISS, YAGNI/Que es.md",
+    "DotNet/Principios SOLID y Diseño/Patrón Repository, Unit of Work",
+    "DotNet/Principios SOLID y Diseño/SOLID/S — Single Responsibility Principle (SRP).md",
+    "DotNet/Principios SOLID y Diseño/Principios de diseño como DRY, KISS, YAGNI",
+    "DotNet/Principios SOLID y Diseño/SOLID/¿Qué es SOLID?..md",
+    "DotNet/Principios SOLID y Diseño/SOLID/D — Dependency Inversion Principle (DIP).md",
+    "DotNet/Principios SOLID y Diseño/SOLID/I — Interface Segregation Principle (ISP).md",
+    "DotNet/Principios SOLID y Diseño/SOLID/L — Liskov Substitution Principle (LSP).md",
+    "DotNet/Principios SOLID y Diseño/SOLID/O — Open-Closed Principle (OCP).md",
+    "DotNet/Principios SOLID y Diseño/SOLID",
+    "DotNet/Fundamentos de .NET/Task/Qué es un delegate, event y Func-Action.md",
+    "DotNet/Principios SOLID y Diseño.md",
+    "DotNet/Principios SOLID y Diseño",
+    "DotNet/Fundamentos de .NET/Task",
+    "DotNet/Fundamentos de .NET/ICollections",
+    "DotNet/Fundamentos de .NET/Uso y beneficios de async-await.md",
+    "DotNet/Fundamentos de .NET/Diferencias entre ref, out y in.md",
+    "DotNet/Bienvenido.md",
+    "DotNet/cree un enlace.md",
+    "DotNet/Fundamentos de .NET/Qué es el boxing-unboxing.md",
+    "DotNet/Fundamentos de .NET/Qué es el Garbage Collector?.md",
+    "DotNet/Fundamentos de .NET/ICollections/Qué es IList.md",
+    "DotNet/Fundamentos de .NET/ICollections/List.md",
+    "DotNet/Fundamentos de .NET/ICollections/IQueryable.md",
+    "DotNet/Fundamentos de .NET/ICollections/IEnumerable.md",
+    "DotNet/Fundamentos de .NET/Fundamentos de .NET.md",
+    "DotNet/Fundamentos de .NET/ICollections/Array.md"
+  ]
+}
